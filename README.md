@@ -4,8 +4,7 @@
 This project envisions benchmarking segmentation models on aerial imagery dataset. 
 
  The project systematically evaluates and compares the performance of various segmentation algorithms, such as U-Net, DeepLab, HRNet, and SegNet on aerial datasets to assess their effectiveness in tasks like land cover classification.
-
-<img src=".resources/segmentation_2560x2048.gif" width="100%" />
+![Segmentation Process](resources/segmentation_2560x2048.gif)
 
 #### Contact Person
 The mainainer <[Kbostanov95@gmail.com](mailto:Kbostanov95@gmail.com)>
