@@ -19,7 +19,7 @@ cd $your-repository$
 install libraries:
 pip install -r requirements.txt
 
-or if using conda:
+or using conda:
 conda env create -f torchsegm.yml
 
 ```
