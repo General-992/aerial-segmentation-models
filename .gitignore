@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment (if using virtualenv)
+venv/
+ENV/
+.env/
+env.bak/
+
+# Byte-compiled files
+*.py[cod]
+*$py.class
+
+# Ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore any system files (macOS, Linux, Windows)
+.DS_Store
+*.swp
+*.swo
+Thumbs.db
+
+# Visual Studio Code settings (optional, keep if using VS Code settings)
+.vscode/
+!.vscode/settings.json
+
+# Ignore any unnecessary large or hidden files
+._*
+
+# Scripts directory specific
+scripts/blacksheet
+
+# Ignore any model checkpoints or weight files
+*.h5
+*.ckpt
+*.pth
+
+# Conda environments
+*.conda
+*.pkl
+
+# Other potential temporary files
+*~
+.fuse_hidden*
+
+scripts/Blacksheet.py
